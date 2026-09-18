@@ -21,5 +21,5 @@ I'm an Electrical Engineering student at Western University with a strong founda
 * **Mechanical Projects:** Engineered custom mechanical builds, including a go-kart, engine assemblies, and vehicle diagnostics.
 
 ## 📫 Connect with Me
-* **LinkedIn:** [Insert your LinkedIn URL]
-* **Email:** [Insert your email address]
+* **LinkedIn:** www.linkedin.com/in/keshav-jayadevan-b5727a232
+
